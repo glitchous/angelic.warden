@@ -1,0 +1,23 @@
+body {
+	background-image: (OIP.wepb/images);
+	align-items: stretch;
+}
+.sonaria {
+	background-color: lightsky;
+	position: fixed;
+	top: 25px;
+	left: 50%;
+	width: 200px;
+	height: 500px;
+}
+.angelic {
+	background-image: (angelic-warden.wepb/images);
+	width: 100px;
+	height: 100px;
+	justify-content: flex-end;
+}
+.text {
+	color: cherry;
+	font-weight: bold;
+	text-align: center;
+}
